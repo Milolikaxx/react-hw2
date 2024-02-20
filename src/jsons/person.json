@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "name": "Jason Momoa",
+    "born": "August 1, 1979",
+    "age": 44,
+    "details": "Joseph Jason Namakaeha Momoa was born on August 1, 1979, in Honolulu, Hawaii. He is the son of Coni (Lemke), a photographer, and Joseph Momoa, a painter. His father is of Native Hawaiian and Samoan descent; and his mother, who is from Iowa, is of German, Irish, and Native American ancestry. Jason was raised in Norwalk, Iowa, by his mother. After high school, he moved to Hawaii, where he landed a lead role, beating out of thousands of hopefuls in the TV series Baywatch (1989)",
+    "occupation": ["Actor", "Producer", "Writer"],
+    "video": "https://www.youtube.com/embed/WnVDNAHDMJQ?si=ObrDCxUe_JXCeBOl",
+    "img": "https://m.media-amazon.com/images/M/MV5BODJlNWQ4ZjUtYjRhNi00NGQ1LWE3YTItYjRmZGI3YzI4YTEyXkEyXkFqcGdeQXVyMTA2MDIzMDE5._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Hayao Miyazaki",
+    "born": "Born January 5, 1941",
+    "age": 83,
+    "details": "Hayao Miyazaki is 1 of Japan's greatest animation directors. The entertaining plots, compelling characters & breathtaking animation in his films have earned him international renown from critics as well as public recognition within Japan.He was born on January 5, 1941 in Tokyo. ",
+    "occupation": ["Animation Department", "Writer", "Art Department"],
+    "video": "https://www.youtube.com/embed/NakTu_VZxJ0?si=dgadaJaFyhRycHXT",
+    "img": "https://m.media-amazon.com/images/M/MV5BODQ4NTk0NGUtNzRmZi00ZTU3LTg0YWItZDE0YmZkNmI3NzcyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyNDQ2NjI@._V1_.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Nicole Kidman",
+    "born": "June 20, 1967",
+    "age": 56,
+    "details": "Elegant Nicole Kidman, known as one of Hollywood's top Australian imports, was actually born in Honolulu, Hawaii, while her Australian parents were there on educational visas.Kidman is the daughter of Janelle Ann (Glenny), a nursing instructor, and Antony David Kidman, a biochemist and clinical psychologist. She is of English, Irish, and Scottish descent. Shortly after her birth, the family moved to Washington, D.C.",
+    "occupation": ["Actress", "Producer", "Music Department"],
+    "video": "https://www.youtube.com/embed/-SPeNIRp0lo?si=zXNdIz9K6ZSYFUfy",
+    "img": "https://www.instyle.com/thmb/jk1RvOWC-Umy_StYAW_kuAxnXVo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/nicole-kidman-met-gala-undereye-lead-a0c7db14f25d4e1fa535f62539d52a54.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Michele Morrone",
+    "born": "October 3, 1990",
+    "age": 33,
+    "details": "Michele Morrone was born on 3 October 1990 in Melegnano, Milan, Lombardy, Italy. He is an actor, known for 365 วัน (2020), Subservience and 365 Days: This Day (2022). He was previously married to Rouba Saadeh.",
+    "occupation": ["Actor", "Soundtrack"],
+    "video": "https://www.youtube.com/embed/N45Z1uWR75s?si=9WXT_UvJ0XxT_Fzo",
+    "img": "https://m.media-amazon.com/images/M/MV5BZDA1ODgyODEtOWI3Yy00N2UzLTk5ZGMtZGI1MzU5YzFkZDQ1XkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Tom Hiddleston",
+    "born": "February 9, 1981",
+    "age": 42,
+    "details": "Thomas William Hiddleston was born in Westminster, London, to English-born Diana Patricia (Servaes) and Scottish-born James Norman Hiddleston. His mother is a former stage manager, and his father, a scientist, was the managing director of a pharmaceutical company. He started off at the preparatory school, The Dragon School in Oxford, and by the time he was 13, he boarded at Eton College, at the same time that his parents were going through a divorce. He continued on to the University of Cambridge, where he earned a double first in Classics. He continued to study acting at the Royal Academy of Dramatic Art, from which he graduated in 2005.",
+    "occupation": ["Actor", "Producer", "Soundtrack"],
+    "video": "https://www.youtube.com/embed/cIOEC0I-bvs?si=ExjAs8_5s63UGZGR",
+    "img": "https://goldenglobes.com/wp-content/uploads/2023/10/tom_hiddleston_032116_the_night_manager_tv_1.jpg?w=600"
+  },
+  {
+    "id": 6,
+    "name": "Jason Statham",
+    "born": "July 26, 1967",
+    "age": 55,
+    "details": "Jason Statham was born in Shirebrook, Derbyshire, to Eileen (Yates), a dancer, and Barry Statham, a street merchant and lounge singer. He was a Diver on the British National Diving Team and finished twelfth in the World Championships in 1992. He has also been a fashion model, black market salesman and finally of course, actor. He received the audition for his debut role as Bacon in Lock, Stock and Two Smoking Barrels (1998) through French Connection, for whom he was modeling.",
+    "occupation": ["Actor", "Producer", "Stunts"],
+    "video": "https://www.youtube.com/embed/sznKSs1G5pU?si=SqUQxjr9ZM3fJx25",
+    "img": "https://m.media-amazon.com/images/M/MV5BMTkxMzk2MDkwOV5BMl5BanBnXkFtZTcwMDAxODQwMg@@._V1_.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Diana Wynne Jones",
+    "born": "Born August 16, 1934",
+    "age": 76,
+    "details": "Diana Wynne Jones was born on 16 August 1934 in London, England, UK. She was a writer, known for Howl's Moving Castle (2004), Jackanory (1965) and Archer's Goon (1992). She was married to John A. Burrows. She died on 26 March 2011 in Bristol, England, UK.",
+    "occupation": ["Writer"],
+    "video": "https://www.youtube.com/embed/iwROgK94zcM?si=RPB9kDKC7DA9lHRX",
+    "img": "https://static01.nyt.com/images/2011/03/29/arts/JONES-obit/JONES-obit-jumbo.jpg?quality=75&auto=webp&disable=upscale"
+  },
+  {
+    "id": 8,
+    "name": "Chieko Baishô",
+    "born": "Born June 29, 1941",
+    "age": 83,
+    "details": "Chieko Baishô was born on 29 June 1941 in Tokyo, Japan. She is an actress, known for Howl's Moving Castle (2004), Tora-san's Tropical Fever (1980) and Tora-san's Runaway (1970). She has been married to Reijirô Koroku since 1993. She was previously married to Mamoru Komiya.",
+    "occupation": ["Writer"],
+    "video": "https://www.youtube.com/embed/iwROgK94zcM?si=RPB9kDKC7DA9lHRX",
+    "img": "https://m.media-amazon.com/images/M/MV5BYzdmOTc5NTAtMGI3OS00ZWYzLWEzNmItZmMxZmNmZjgyNWZhXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Takuya Kimura",
+    "born": "Born November 13, 1972",
+    "age": 51,
+    "details": "Takuya Kimura was born on 13 November 1972 in Tokyo, Japan. He is an actor, known for 2046 (2004), Blade of the Immortal (2017) and Love and Honor (2006). He has been married to Shizuka Kudô since 2000. They have two children.",
+    "occupation": ["Actor", "Soundtrack"],
+    "video": "https://www.youtube.com/embed/ByXuk9QqQkk?si=rPTgkqE4HKfHGKyB",
+    "img": "https://m.media-amazon.com/images/M/MV5BODZlMWUyMmUtYzZlNC00OGU3LWE1YzMtMzcwNDI3NmNiNzdiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Hiromasa Yonebayashi",
+    "born": "Born July 10, 1973",
+    "age": 50,
+    "details": "Hiromasa Yonebayashi was born on 10 July 1973 in Nonoichi, Japan. He is a director and writer, known for When Marnie Was There (2014), The Secret World of Arrietty (2010) and Mary and the Witch's Flower (2017).",
+    "occupation": ["Animation Department", "Director", "Writer"],
+    "video": "https://www.youtube.com/embed/9CtIXPhPo0g?si=BReHXZsRNLnlcX6v",
+    "img": "https://m.media-amazon.com/images/M/MV5BZGMxNDk5OWYtMzkyMi00NmQ4LTg4NjMtMTRiYTUzNGU5ZWYzXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Mary Norton",
+    "born": "Born December 10, 1903",
+    "age": 88,
+    "details": "Mary Norton was born on 10 December 1903 in Highbury, London, England, UK. She was a writer, known for Bedknobs and Broomsticks (1971), The Secret World of Arrietty (2010) and The Borrowers Reboot. She was married to Lionel Boncey and Robert Norton. She died on 29 August 1992",
+    "occupation": ["Writer"],
+    "video": "https://www.youtube.com/embed/9CtIXPhPo0g?si=BReHXZsRNLnlcX6v",
+    "img": "https://upload.wikimedia.org/wikipedia/en/1/1c/Mary_Norton_Portrait.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Keiko Niwa",
+    "born": null,
+    "age": null,
+    "details": "Keiko Niwa is known for From Up on Poppy Hill (2011), When Marnie Was There (2014) and Tales from Earthsea (2006).",
+    "occupation": ["Writer"],
+    "video": "https://www.youtube.com/embed/9CtIXPhPo0g?si=BReHXZsRNLnlcX6v",
+    "img": "https://upload.wikimedia.org/wikipedia/en/1/1c/Mary_Norton_Portrait.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Bridgit Mendler",
+    "born": "Born December 18, 1992",
+    "age": null,
+    "details": "Bridgit Claire Mendler was born in Washington DC, and lived there until she was eight years old. Her family moved to the west coast, just outside of San Francisco, California. This is when she first expressed an interest in acting and began booking local jobs. In 2004, she landed her first role in the animated film, The Legend of Buddha (2004), as Lucy. When she was 13, she landed her first acting role, as a guest star on General Hospital (1963). In 2008, she landed a role, as Kristen Gregory",
+    "occupation": ["Actress", "Music Department", "Composer"],
+    "video": "https://www.youtube.com/embed/9CtIXPhPo0g?si=BReHXZsRNLnlcX6v",
+    "img": "https://m.media-amazon.com/images/M/MV5BMTY0NDQxMjk4Ml5BMl5BanBnXkFtZTcwMDAyMzc0Mw@@._V1_.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Amy Poehler",
+    "born": "Born September 16, 1971",
+    "age": 52,
+    "details": "Amy Meredith Poehler was born in Newton, Massachusetts, to high school teachers Eileen Frances (Milmore) and William Grinstead Poehler. Her brother is comedian Greg Poehler. She is of Irish (from her mother) and English, Irish, German, and Portuguese (from her father) descent. ",
+    "occupation": ["Actress", "Producer", "Writer"],
+    "video": "https://www.youtube.com/embed/9CtIXPhPo0g?si=BReHXZsRNLnlcX6v",
+    "img": "https://m.media-amazon.com/images/M/MV5BYjIzMDA0NmUtMTlhZi00ZDU3LTkzYWMtZDhkYTU1ZDJlMGRkXkEyXkFqcGdeQXVyNzcwODE0OTk@._V1_.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Will Arnett",
+    "born": "Born May 4, 1970",
+    "age": 53,
+    "details": "Will Arnett is a Canadian-American actor, voice actor, and comedian. He is most famous for playing George Oscar Gob Bluth II in the Fox series Arrested Development (2003). ",
+    "occupation": ["Actor", "Producer", "Writer"],
+    "video": "https://www.youtube.com/embed/9CtIXPhPo0g?si=BReHXZsRNLnlcX6v",
+    "img": "https://m.media-amazon.com/images/M/MV5BZTgxNDdlYjAtNGQzZC00ODJlLTliYjYtYTk0ZDE4YTBmYmM0XkEyXkFqcGdeQXVyNDc1NDA0NA@@._V1_.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Tatsuya Gashûin",
+    "born": "Born December 10, 1950",
+    "age": 53,
+    "details": "Tatsuya Gashûin was born on December 10, 1950 in Tokyo, Japan as Akinosuke Sugano. He is an actor, known for the 2 Shimajiro films including Gekijouban Shimajirou no wao!: Shimajirou to kujira no uta (2014) as the voice puppet of Hermit Crab, Gekijouban Shimajirou no wao!: Shimajirou to ookina ki as the voice puppet of Froggie, he also voiced in Spirited Away (2001), Howl's Moving Castle (2004)",
+    "occupation": ["Actor"],
+    "video": "https://www.youtube.com/embed/iwROgK94zcM?si=RPB9kDKC7DA9lHRX",
+    "img": "https://m.media-amazon.com/images/M/MV5BNzkwYTU0MTYtYTVhMC00NGQ3LWJkZmUtOWFlYzhmMDI3MzdmXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Daveigh Chase",
+    "born": "Born July 24, 1990",
+    "age": 53,
+    "details": "Daveigh Chase was born on July 24, 1990 in Las Vegas, Nevada. She was raised in the small town of Albany, Oregon; where she continues to spend much of her time. She began singing and dancing in her hometown and other local areas at community events and shows starting at age 3. After visiting Los Angeles, she did her first commercial for Campbell's Soup at age 7. ",
+    "occupation": ["Actress", "Soundtrack"],
+    "video": "https://www.youtube.com/embed/O5VCgnaV07E?si=Sn7eUcea5_6NCe_U",
+    "img": "https://m.media-amazon.com/images/M/MV5BMTcyMDAyMjA4NF5BMl5BanBnXkFtZTcwNjg1ODkzMg@@._V1_.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Suzanne Pleshette",
+    "born": "Died January 19, 2008(70)",
+    "age": 53,
+    "details": "Suzanne Pleshette achieved television immortality in her role as Bob Newhart's wife in the 1970s classic situation comedy, The Bob Newhart Show (1972). For her role as Emily Hartley, wife of psychologist Bob Hartley (played by Bob Newhart), Pleshette was nominated for the Emmy Award twice, in 1977 and 1978. She was also nominated for an Emmy in 1962 for a guest appearance on the TV series",
+    "occupation": ["Actress", "Soundtrack"],
+    "video": "https://www.youtube.com/embed/O5VCgnaV07E?si=Sn7eUcea5_6NCe_U",
+    "img": "https://m.media-amazon.com/images/M/MV5BMTU0NzkwMjA3N15BMl5BanBnXkFtZTYwNDkwNTgy._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Miyu Irino",
+    "born": "Born February 19, 1988",
+    "age": 53,
+    "details": "Miyu Irino was born on 19 February 1988 in Tokyo, Japan. He is an actor, known for Spirited Away (2001), The Garden of Words (2013) and A Silent Voice: The Movie (2016).",
+    "occupation": ["Actress", "Soundtrack"],
+    "video": "https://www.youtube.com/embed/O5VCgnaV07E?si=Sn7eUcea5_6NCe_U",
+    "img": "https://m.media-amazon.com/images/M/MV5BZjA4M2Q5NDItN2FjNi00NTg3LWE3MTEtOWM0NDJmODk1YjQwXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Cate Blanchett",
+    "born": "Born May 14, 1969",
+    "age": 53,
+    "details": "Cate Blanchett was born on May 14, 1969 in Melbourne, Victoria, Australia, to June (Gamble), an Australian teacher and property developer, and Robert DeWitt Blanchett, Jr., an American advertising executive, originally from Texas. She has an older brother and a younger sister.",
+    "occupation": ["Actress", "Producer", "Writer"],
+    "video": "https://www.youtube.com/embed/d3RQYjmDRgg?si=tO44_fVxDqozu-4q",
+    "img": "https://m.media-amazon.com/images/M/MV5BMTc1MDI0MDg1NV5BMl5BanBnXkFtZTgwMDM3OTAzMTE@._V1_.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Matt Damon",
+    "born": "Born October 8, 1970",
+    "age": 53,
+    "details": "Matthew Paige Damon was born on October 8, 1970, in Boston, Massachusetts, to Kent Damon, a stockbroker, realtor and tax preparer, and Nancy Carlsson-Paige, an early childhood education professor at Lesley University. Matt has an older brother, Kyle, a sculptor. His father was of English and Scottish descent, and his mother is of Finnish and Swedish ancestry. ",
+    "occupation": ["Actor", "Producer", "Writer"],
+    "video": "https://www.youtube.com/embed/otYXs5gRHqg?si=cHnkYn01C5-azIJC",
+    "img": "https://m.media-amazon.com/images/M/MV5BMTM0NzYzNDgxMl5BMl5BanBnXkFtZTcwMDg2MTMyMw@@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Liam Neeson",
+    "born": "Born June 7, 1952",
+    "age": 53,
+    "details": "Liam Neeson was born on June 7, 1952 in Ballymena, Northern Ireland, to Katherine (Brown), a cook, and Bernard Neeson, a school caretaker. He was raised in a Catholic household. During his early years, Liam worked as a forklift operator for Guinness, a truck driver, an assistant architect and an amateur boxer. He had originally sought a career as a teacher by attending St. Mary's Teaching College, Newcastle. However, in 1976, Neeson joined the Belfast Lyric Players' Theater and made his professional acting debut in the play The Risen People. After two years, Neeson moved to Dublin's Abbey Theater where he performed the classics. ",
+    "occupation": ["Actor", "Producer", "Writer"],
+    "video": "https://www.youtube.com/embed/jzQn0-WH4WM?si=QFxcdtUWMUtgymqO",
+    "img": "https://www.usmagazine.com/wp-content/uploads/2019/04/Liam-Neeson-84363058.jpg?w=800&h=1421&crop=1&quality=70&strip=all"
+  },
+  {
+    "id": 23,
+    "name": "Hitoshi Takagi",
+    "born": "Died February 11, 2004(78)",
+    "age": 53,
+    "details": "Hitoshi Takagi was born on 26 February 1925. He was an actor, known for My Neighbor Totoro (1988), Throne of Blood (1957) and Tampopo (1985). He died on 11 February 2004 in Japan.",
+    "occupation": ["Actor"],
+    "video": "https://www.youtube.com/embed/92a7Hj0ijLs?si=fDkB0vHi3F7xowmR",
+    "img": "https://static.wikia.nocookie.net/dragonball/images/5/5e/Hitoshi_Takagi.jpg/revision/latest?cb=20230423044527"
+  },
+  {
+    "id": 24,
+    "name": "Noriko Hidaka",
+    "born": "Born May 31, 1962",
+    "age": 53,
+    "details": "Hitoshi Takagi was born on 26 February 1925. He was an actor, known for My Neighbor Totoro (1988), Throne of Blood (1957) and Tampopo (1985). He died on 11 February 2004 in Japan.",
+    "occupation": ["Actress", "Music Department", "Soundtrack"],
+    "video": "https://www.youtube.com/embed/92a7Hj0ijLs?si=fDkB0vHi3F7xowmR",
+    "img": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/214225_v9_aa.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Chika Sakamoto",
+    "born": "Born August 17, 1959",
+    "age": 53,
+    "details": "Chika Sakamoto was born on 17 August 1959 in Tokyo, Japan. She is an actress, known for Nausicaä of the Valley of the Wind (1984), My Neighbor Totoro (1988) and Digimon Story: Cyber Sleuth (2015).",
+    "occupation": ["Actress", "Soundtrack"],
+    "video": "https://www.youtube.com/embed/92a7Hj0ijLs?si=fDkB0vHi3F7xowmR",
+    "img": "https://images.entertainment.ie/person/w780_rzBLHST5Icmm1gYGHOZvAGk6BNs.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Soma Santoki",
+    "born": "Born June 6, 2005 ",
+    "age": 18,
+    "details": "Soma Santoki is known for The Boy and the Heron (2023), Hikikomori Sensei (2021) and The Days (2023).",
+    "occupation": ["Actor"],
+    "video": "https://www.youtube.com/embed/f7EDFdA10pg?si=LYM04s5Puzs7kWbs",
+    "img": "https://i.mydramalist.com/WPJWzP_5c.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Masaki Suda",
+    "born": "Born February 21, 1993",
+    "age": 18,
+    "details": "Soma Santoki is known for The Boy and the Heron (2023), Hikikomori Sensei (2021) and The Days (2023).Masaki Suda was born on 21 February 1993 in Minoh, Japan. He is an actor, known for Wilderness: Part One (2017), The Boy and the Heron (2023) and Kamen Rider Movie War Mega Max: Kamen Rider vs. Kamen Rider Fourze & OOO (2011). He has been married to Nana Komatsu since 15 November 2021.",
+    "occupation": ["Actor", "Music Department", "Soundtrack"],
+    "video": "https://www.youtube.com/embed/f7EDFdA10pg?si=LYM04s5Puzs7kWbs",
+    "img": "https://m.media-amazon.com/images/M/MV5BNGRmNTVmOWEtMTlmOC00ZDYyLWFmMzMtNGZlMWZlYjBkNGM1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Kô Shibasaki",
+    "born": "Born August 5, 1981",
+    "age": 18,
+    "details": "Ko Shibasaki was born on August 5, 1981 in Tokyo. Her real name is Yukie Yamamura (Ko Shibasaki is a main character of her favorite manga). She started her career at 14 when her talent was discovered by a star agent. She has worked in many TV shows and commercials, starting to become more famous thanks to her excellent performance in the movie Battle Royale (2000) as Mitsuko Soma.",
+    "occupation": ["Actor", "Music Department", "Soundtrack"],
+    "video": "https://www.youtube.com/embed/f7EDFdA10pg?si=LYM04s5Puzs7kWbs",
+    "img": "https://m.media-amazon.com/images/M/MV5BODY2MzQwMTE2N15BMl5BanBnXkFtZTcwNzMzNzEzOA@@._V1_FMjpg_UX1000_.jpg"
+  }
+]
