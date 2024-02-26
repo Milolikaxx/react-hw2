@@ -38,7 +38,6 @@ function MoviePage() {
         <Box
           sx={{
             display: "flex",
-            flexDirection: "column",
             justifyContent: "flex-start",
             marginRight: 138,
           }}
