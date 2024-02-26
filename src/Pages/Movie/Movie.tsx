@@ -461,6 +461,8 @@ function MoviePage() {
               <Button
                 variant="contained"
                 sx={{
+                  borderEndEndRadius: 0,
+                  borderStartEndRadius: 0,
                   display: "flex",
                   flexDirection: "row",
                   justifyContent: "start",
@@ -488,6 +490,8 @@ function MoviePage() {
               <Button
                 variant="contained"
                 sx={{
+                  borderStartStartRadius: 0,
+                  borderEndStartRadius: 0,
                   display: "flex",
                   flexDirection: "row",
                   justifyContent: "center",
