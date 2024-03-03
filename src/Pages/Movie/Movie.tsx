@@ -101,7 +101,13 @@ function MoviePage() {
                   <Typography
                     variant="body2"
                     color="initial"
-                    sx={{ color: "gray", fontWeight: "bold" }}
+                    sx={{
+                      color: "gray",
+                      fontWeight: "bold",
+                      display: "flex",
+                      justifyContent: "center",
+                      alignItems: "center",
+                    }}
                   >
                     IMDb RATING
                   </Typography>
@@ -276,6 +282,7 @@ function MoviePage() {
                   flexDirection: "column",
                   justifyContent: "center",
                   alignItems: "center",
+                  backgroundColor: "rgba(255, 255, 255, 0.5)",
                 }}
               >
                 <VideoLibraryIcon sx={{ fontSize: 50, marginBottom: 1 }} />
@@ -289,6 +296,7 @@ function MoviePage() {
                   flexDirection: "column",
                   justifyContent: "center",
                   alignItems: "center",
+                  backgroundColor: "rgba(255, 255, 255, 0.5)",
                 }}
               >
                 <PhotoLibraryIcon sx={{ fontSize: 48, marginBottom: 1 }} />
